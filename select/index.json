@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Not Bad Days",
+  "base_artist": "VIDA Hollywood",
+  "createdAt": "2026-02-13T01:12:07.520872Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Not Bad Days",
+      "artist": "VIDA Hollywood",
+      "has_synced": false,
+      "path": "select/pl_01_Not_Bad_Days_VIDA_Hollywood.txt"
+    }
+  ]
+}
